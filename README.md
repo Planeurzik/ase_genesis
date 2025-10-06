@@ -1,6 +1,7 @@
 # Adversarial Skill Embeddings applied to humanoid robotics in Genesis
 
-This repository contains my work on **Adversarial Skill Embeddings (ASE)** applied to **humanoid control** using the **Unitree H1** robot, simulated in the **Genesis** physics engine. The provided low-level policy (`h1-forward-real/model_6000.pt`) can be deployed in `unitree_mujoco` or in real-life (IRL) scenarios, enabling the robot to walk forward and backward.
+This repository contains my work on **Adversarial Skill Embeddings (ASE)** applied to **humanoid control** using the **Unitree H1** robot, simulated in the **Genesis** physics engine. The provided low-level policy (`h1-forward-real/model_6000.pt`) can be deployed in `unitree_mujoco` or in real-life (IRL) scenarios, enabling the robot to walk forward and backward. For more information, please see the [internship report repository](https://github.com/Planeurzik/jrl-internship-repo).
+
 
 ![H1 walking](illustration/walking_h1.gif)
 
