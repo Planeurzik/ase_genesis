@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/wireless.dir/wireless.o -o wireless  -lunitree_sdk2 

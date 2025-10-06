@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_publisher.dir/publisher.o CMakeFiles/test_publisher.dir/HelloWorldData.o -o test_publisher  -lunitree_sdk2 

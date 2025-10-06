@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sportmode_test.dir/sportmode_test.o -o sportmode_test  -lunitree_sdk2 

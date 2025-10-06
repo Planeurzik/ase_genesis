@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/vui_client_example.dir/vui_client_example.o -o vui_client_example  -lunitree_sdk2 

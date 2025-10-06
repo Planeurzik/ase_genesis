@@ -1,0 +1,5 @@
+torch==2.7.0
+rsl-rl-lib==2.3.1
+genesis-world==0.2.1
+libigl==2.5.1
+tensorboard==2.19.0

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sport_client_example.dir/sport_client_example.o -o sport_client_example  -lunitree_sdk2 

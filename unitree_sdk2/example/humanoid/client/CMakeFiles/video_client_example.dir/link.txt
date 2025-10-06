@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/video_client_example.dir/video_client_example.o -o video_client_example  -lunitree_sdk2 

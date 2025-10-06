@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/stand_example_go2.dir/stand_example_go2.o -o stand_example_go2  -lunitree_sdk2 

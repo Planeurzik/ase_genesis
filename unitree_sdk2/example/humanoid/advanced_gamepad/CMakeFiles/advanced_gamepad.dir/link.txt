@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/advanced_gamepad.dir/main.o -o advanced_gamepad  -lunitree_sdk2 

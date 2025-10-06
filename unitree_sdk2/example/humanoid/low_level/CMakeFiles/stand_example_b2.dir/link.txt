@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/stand_example_b2.dir/stand_example_b2.o -o stand_example_b2  -lunitree_sdk2 

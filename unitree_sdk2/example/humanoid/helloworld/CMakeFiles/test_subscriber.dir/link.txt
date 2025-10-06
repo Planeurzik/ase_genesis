@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_subscriber.dir/subscriber.o CMakeFiles/test_subscriber.dir/HelloWorldData.o -o test_subscriber  -lunitree_sdk2 

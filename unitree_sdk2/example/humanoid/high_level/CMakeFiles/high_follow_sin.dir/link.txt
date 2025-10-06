@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/high_follow_sin.dir/follow_sin.o -o high_follow_sin  -lunitree_sdk2 
